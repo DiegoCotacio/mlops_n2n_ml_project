@@ -1,0 +1,7 @@
+pandas 
+numpy
+scikit-learn
+
+
+#interact to setup and automatically runs setup
+-e .
