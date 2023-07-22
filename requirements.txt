@@ -1,7 +1,12 @@
 pandas 
 numpy
 scikit-learn
+matplotlib
+seaborn
+catboost
+xgboost
+dill
 
 
 #interact to setup and automatically runs setup
--e .
+#-e .
